@@ -12,4 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 	/*sium sium sium sono il presidente della repubblica*/
+	/*daje roma*/
+	/*viva salvini*/
 }
